@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+---
+
+### **Inspirational Message**
+
+*If all the scientists in the world believed that everything had already been discovered,*
+
+**no new ideas would have emerged.**
+
+*Some wheels have yet to be invented,*
+
+**and others need to be improved.**
+
+---
+
 <!--
 **mateusmed/mateusmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
