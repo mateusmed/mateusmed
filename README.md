@@ -1,8 +1,4 @@
-## Hi there 👋
-
 ---
-
-### **Inspirational Message**
 
 *If all the scientists in the world believed that everything had already been discovered,*
 
