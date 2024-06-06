@@ -1,17 +1,11 @@
 # 
 
-
 ---
-
-
-*If all the scientists in the world believed that everything had already been discovered,*
+*If all the scientists in the world believed that everything had already been discovered,* 
 
 **no new ideas would have emerged.**
 
-*Some wheels have yet to be invented,*
-
-**and others need to be improved.**
-
+*Some wheels have yet to be invented,* **and others need to be improved.**
 ---
 
 <!--
